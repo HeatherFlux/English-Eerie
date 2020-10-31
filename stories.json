@@ -1,0 +1,28 @@
+{
+  "BeastOnTheMoor": {
+    "synopsis": "The date is 1907. You take on the role of an antiquarian visiting a friend in an old manor house in Derbyshire. Your friend, Lord Christopher Cunningham, is ailing of late and his mind is deteriorating. He raves much about sounds on the moors, strange lights and a shape that he swears he has seen cross his window on a few occasions. You have decided to stay for a week to look after Christopher and help soothe his mind.",
+    "locations": "Manor: kitchen, library, chambers, cellar, stables\nOld well\nWoodland\nMoorland",
+    "secondaryCharacters": "**Lord Cunningham**, a solitary noble who lives alone, save for a few servants, in his Derbyshire manor. He is potentially becoming a danger to himself with all these tales of strange goings on.\n**Mrs Bristle**, a middle-aged plump serving woman who dotes on Christopher. She is worried about his state of mind and often sits with him while he sleeps.\n**Mr Douglas**, a butler who looks like he’s built for a fight. He doesn’t seem to care much for his lord, and puts in the least effort. He is in love with Ms Enfield.\n**Ms Enfield**, a serving girl of twenty years old. She is a superstitious type and encourages Christopher when he spouts his lunacy about odd sounds and shapes in the night. Mrs Bristle isn’t fond of her ways and believes she’s got ‘the devil in her’.",
+    "clues": "A scratch mark on the outside door\nA bizarre howl coming from the moor\nAn ancient text that is unreadable\nAn old newspaper clipping about lights above Golden Wood\nA savaged cow on the field",
+    "environmentObstacles": "A thick fog blocks all vision\nA slippery stream blocks your way\nThe trees appear to whisper to you\nAn animal trap on the ground\nThe trapdoor is jammed",
+    "secondaryObstacles": "A character assaults you with a weapon\nA character blocks your way out\nA character attempts to talk you out of going somewhere\nA character leaves you lost in the wilderness\nA character has apparently been driven to lunacy",
+    "tension1": "You witness the fiery eyes of a being in the dark on the moors dart across the landscape.",
+    "tension2": "Lord Cunningham is nowhere to be found. They say he went out into the wood.",
+    "tension3": "A black beast with saucer eyes confronts you in the dark.",
+    "spirit-1": " You have lived to tell the tale of the beast on the moor and all your faculties are in check. You may have found a method of ridding the world of this foul beast, and perhaps one day you return to do just that.",
+    "spirit-0": "Your last entry details your thoughts after fleeing the beast on the moor. You are raving, your world has been turned upside down. You are convinced that someone in the manor or in the area is responsible for this beast. You will find them and put an end to them."
+  },
+  "Story": {
+    "synopsis": "",
+    "locations": "",
+    "secondaryCharacters": "",
+    "clues": "",
+    "environmentObstacles": "",
+    "secondaryObstacles": "",
+    "tension1": "",
+    "tension2": "",
+    "tension3": "",
+    "spirit-1": "",
+    "spirit-0": ""
+  }
+}
