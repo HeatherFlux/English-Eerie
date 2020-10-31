@@ -17,3 +17,10 @@ A very very simple discord bot to run locally to play english eerie with friends
 
 [Trollish Delver Games](http://www.trollishdelver.com/)
 [Drive Thru RPG Link For Second Edition](https://www.drivethrurpg.com/product/322499/English-Eerie-Second-Edition)
+
+## How to use
+
+- Set up a Discord Bot
+- Get your bots private key
+- `node index.js`
+- !help in your channel to make sure it is running
